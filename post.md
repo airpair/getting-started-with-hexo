@@ -30,6 +30,8 @@ $ hexo server
 
 And then power up Chrome at http://localhost:4000 to see something like this...
 
+![before](https://www.anony.ws/i/2015/05/19/hexo.png)
+
 This done, it was time to configure hexo. Hexo has a very simple YAML config file under \_config.yml.
 
 This is how my config file started to look after a few simple customizations; the main things I changed were the title, the author, the language (to en), the URL and the default category from uncategorized to journal.
@@ -160,6 +162,8 @@ fb_app_id:
 Since many of my posts didn't have thumbnails, I set thumnail to false, I set up the social links correctly, removed the tag and tagcloud widgets that I didn't want, set up the links I wanted and left it at that for the moment.
 
 With my theme configured, it was looking like this now:
+
+![after](https://www.anony.ws/i/2015/05/19/hexo_2.png)
 
 I then created a new post, and edited it with my favourite markdown editor, [Atom.io](http://atom.io):
 ```
