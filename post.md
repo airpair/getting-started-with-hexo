@@ -1,4 +1,4 @@
-I decided last week to get back to blogging last week. I was looking an alternative to [Wordpress](https://wordpress.com/), which I was tired of for many reasons:
+I decided to get back to blogging last week. I was looking an alternative to [Wordpress](https://wordpress.com/), which I was tired of for many reasons:
 + It felt big & slow
 + It felt "closed" & old.
 + It wasn't developer friendly:
